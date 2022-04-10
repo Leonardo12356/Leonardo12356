@@ -1,9 +1,9 @@
-<div align="center"> Oi, eu sou Leonardo Aguiar 👋🏻
+## Oi, eu sou Leonardo Aguiar 👋🏻
 
-  <div align="center">
+  <div>
   <a href="https://github.com/Leonardo12356">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo12356&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo12356&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo12356&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </div>
 
   <div style="display: inline_block"><br>
@@ -12,3 +12,6 @@
   </div>
   
  ![Snake animation](https://github.com/Leonardo12356/Leonardo12356/blob/output/github-contribution-grid-snake.svg)
+
+    
+   
