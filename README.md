@@ -8,10 +8,10 @@
     
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/101607227/162648189-bad37d5f-0fb9-4fed-8f4d-1c0913a2c09e.gif)
   
-   <div align="center">
-    <a href="https://github.com/Leonardo12356"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=Leonardo12356&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo12356&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
-      <div>
+  <div align="center">
+  <a href="https://github.com/Leonardo12356"><img height="130em" src="https://github-readme-stats.vercel.app/api?username=Leonardo12356&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo12356&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <div>
    
   <div style="display: inline_block"><br>
   <img align="center" alt="Leonardo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
