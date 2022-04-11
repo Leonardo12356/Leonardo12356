@@ -1,4 +1,4 @@
-## <div align="center">  Oi, eu sou Leonardo Aguiar 👋
+## <div align="center">  Oi, eu sou Leonardo Aguiar 👋🏻
      
       
           
