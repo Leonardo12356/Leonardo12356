@@ -25,6 +25,7 @@
    
    
  ![Snake animation](https://github.com/Leonardo12356/Leonardo12356/blob/output/github-contribution-grid-snake.svg)
-
+  <div>
+       <img src="https://komarev.com/ghpvc/?username=Leonardo12356 &style=plastic&color=blueviolet ">
     
    
