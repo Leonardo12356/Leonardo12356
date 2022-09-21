@@ -22,7 +22,7 @@
      </div>
        
        
-
+###
       
    <a href="https://open.spotify.com/user/xxxleonardoxxx?si=87fb115524414122" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
    <a href="https://leonardoaguiar1235@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
