@@ -31,7 +31,7 @@
     <a href="https://www.linkedin.com/in/leonardo-aguiar-56a9b4202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
    
- ![Snake animation](https://github.com/Leonardo12356/Leonardo12356/blob/output/github-contribution-grid-snake.svg)
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leonardo12356/Leonardo12356/output/github-contribution-grid-snake.svg">
   <div>
        <img src="https://komarev.com/ghpvc/?username=Leonardo12356&style=plastic&color=yellow">
     
